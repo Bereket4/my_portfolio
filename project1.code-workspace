@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "project1",
+			"path": "."
+		},
+		{
+			"name": "bootstrap",
+			"path": "../../../../Downloads/bootstrap-5.3.0-dist/bootstrap"
+		},
+		{
+			"path": "D:/New folder (4)"
+		}
+	],
+	"settings": {}
+}
